@@ -10,6 +10,8 @@ ERP与WMS有各自的库存模型（两个系统技术异构），为了使两�
 
 ![betn0](C:\myws\work\github\work\yhdx\scm\betn0.png)
 
+（图片：https://github.com/april11640/work/blob/master/yhdx/scm/betn0.png）
+
 **消息的同步过程：**
 
 （1）、对所有要同步的消息做本地记录，消息与业务数据都存储在同一库中，保证消息的保存与业务在同一本地事务下。
